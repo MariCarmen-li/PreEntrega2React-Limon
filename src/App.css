@@ -1,0 +1,60 @@
+.App {
+  text-align: center;
+}
+
+.navbar {
+  background-color: #14f14b;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+}
+
+.brand {
+  text-decoration: none;
+  font-size: 24px;
+  font-weight: bold;
+  color: white;
+}
+
+.categories {
+  list-style: none;
+  padding: 0;
+  display: flex;
+}
+
+.categories li {
+  margin-right: 20px;
+}
+
+.categories li a {
+  color: rgb(238, 147, 29);
+  text-decoration: none;
+}
+
+.cart-widget {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
+
+.cart-widget i {
+  font-size: 24px;
+  margin-right: 5px;
+}
+
+.item-count {
+  background-color: rgb(231, 107, 24);
+  color: white;
+  border-radius: 50%;
+  padding: 5px 10px;
+  font-size: 14px;
+}
+
+.item-list-container {
+  margin: 20px;
+  text-align: center;
+}
+
+/* Agrega más estilos según tus necesidades */

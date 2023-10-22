@@ -1,0 +1,32 @@
+[
+    {
+      "id": 1,
+      "name": "Jabon de avena y miel",
+      "description": "Ejerce un efecto limpiador, dejando la piel suave, hidratada y nutrida.",
+      "price": 19.99,
+      "categoryId": 1
+    },
+    {
+      "id": 2,
+      "name": "Jabon HydraBoost",
+      "description": "Hidratacion ideal para todo tipo de piel.",
+      "price": 29.99,
+      "categoryId": 2
+    },
+    {
+      "id": 3,
+      "name": "Jabon de arroz",
+      "description": "Propiedades blanqueadoras y con sensacion suave",
+      "price": 39.99,
+      "categoryId": 1
+    },
+    {
+      "id": 4,
+      "name": "Jabon de romero",
+      "description": "Elimina impurezas, con propiedades antiinflamatorias, estimula la circulación.",
+      "price": 49.99,
+      "categoryId": 3
+    }
+    
+  ]
+  
